@@ -24,4 +24,4 @@ Task that show you how build a design with bootstrap.
 - Bootstrap: For styling the UI.
 
 ## Screenshot 
-![images](src/Assets/swiper.png)
+![images](images/candy.png)
